@@ -1,4 +1,5 @@
 def analyze_list(list):
+
     minimum = min(list)
     maximum = max(list)
     average = sum(list) / len(list)
